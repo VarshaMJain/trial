@@ -1,4 +1,4 @@
-******************************************************************************
+/******************************************************************************
 * File Name: check_little_big_endian.c
 * Description:  This file contains function to check big or little endian
 * Tool-Chain: AVR GCC Compiler
@@ -18,8 +18,6 @@
 ****************************************************/
 /***********************************************
 * Name:in main function itself we are checking whether the stored number is big or little endian
-
-
 **********************************************/
 
 
